@@ -1,0 +1,12 @@
+# Local compiler output
+mini-os-simulator
+mini-os-simulator.exe
+*.o
+*.obj
+*.out
+*.exe
+build/
+
+# Local scheduling exports
+stats.csv
+
